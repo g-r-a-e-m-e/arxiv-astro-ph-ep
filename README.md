@@ -1,6 +1,6 @@
 # arXiv - Earth and Planetary Astrophysics Bluesky Bot
 
-
+[![DOI](https://zenodo.org/badge/754664038.svg)](https://zenodo.org/doi/10.5281/zenodo.10635705)
 
 A Bluesky Bot that posts about new Earth and Planetary Astrophysics articles from arXiv.org each day.
 
@@ -12,4 +12,4 @@ Thank you to arXiv for use of its open access interoperability. This Bluesky Bot
 ## Changelog
 | Version | Date | Author | Notes |
 |---|---|---|---|
-| 1.0.0 | 2024-02-08 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | Initial commit |
+| 1.0.0 | 2024-02-08 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | Added DOI |
