@@ -12,4 +12,4 @@ Thank you to arXiv for use of its open access interoperability. This Bluesky Bot
 ## Changelog
 | Version | Date | Author | Notes |
 |---|---|---|---|
-| 1.0.0 | 2024-02-08 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | Added DOI |
+| 1.0.1 | 2024-02-08 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | Added DOI |
